@@ -1,7 +1,7 @@
 local hasFocus, locations, fading, current = false, false, {};
 local QBCore = exports['qb-core']:GetCoreObject()
 
-function BuildSelector(data)
+TriggerEvent('QBCore:Client:OnPlayerLoaded') function BuildSelector(data)
     locations, playerData, hasFocus = BuildLocations(data), data, true;
     BuildCamera(1);
     SetNuiFocus(true, true);
@@ -93,7 +93,6 @@ function Spawn()
     DestroyCam(current.camera, true);
     locations, playerData, hasFocus, current = nil;
     TriggerEvent('QBCore:Client:OnPlayerLoaded')
-    -- TriggerServerEvent("clothing:checkIfNew")
 end
 
 function spawnplayer()
