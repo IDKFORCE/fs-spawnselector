@@ -46,7 +46,8 @@ RegisterNetEvent('qb-spawn:client:setupSpawns', function(cData, new, apps)
     end
 end)
 ```
-
+*
+To Change The Logo Go To `interface.css` In Line 7
 *
 This Is The Original
 [link](https://github.com/arabcodingteam/qb-spawnselector)
