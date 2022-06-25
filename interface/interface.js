@@ -19,14 +19,14 @@ window.addEventListener('message', function(event) {
 $(".button").click(function() {
     let el = $(this), type = el.attr("type");
     if (type) {
-        $.post(`https://qb-spawnselector/${type}`);
+        $.post(`https://fs-spawnselector/${type}`);
     }
 });
 
 $(".spawn").click(function() {
-    $.post(`https://qb-spawnselector/spawn`);
+    $.post(`https://fs-spawnselector/spawn`);
 });
 
 $(".lastloc").click(function() {
-    $.post(`https://qb-spawnselector/lastloc`);
+    $.post(`https://fs-spawnselector/lastloc`);
 });
