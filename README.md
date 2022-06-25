@@ -50,6 +50,6 @@ end)
 To Change The Logo Go To `interface.css` In Line 7
 *
 
-# This Is The Original
+# Here Is The Original Fork
 
-[link](https://github.com/arabcodingteam/qb-spawnselector)
+[qb-spawnselector](https://github.com/arabcodingteam/qb-spawnselector)
