@@ -4,7 +4,7 @@
 body {
     display: none;
     margin: 0%;
-    background-image: url("https://cdn.discordapp.com/attachments/784243374269661195/990038298124750909/fb67f1973ee599961d884fb5933b0356263b7e2a_1.png");
+    background-image: url("https://cdn.discordapp.com/attachments/784243374269661195/990038298124750909/fb67f1973ee599961d884fb5933b0356263b7e2a_1.png"); /* change this to change the logo */
     background-repeat: no-repeat;
     background-size: 27%;
     font-family: 'Heebo', sans-serif;
