@@ -91,8 +91,8 @@ Settings.Locations = {
     rot = vector3(-14.85577, -0.0, -67.75),
     spawn = vector4(200.26, -929.81, 30.69, 328.29) },
 
-    { name = "mirrowpark",
-    label = "MirrowPark",
+    { name = "mirrorpark",
+    label = "MirrorPark",
     coords = vector3(903.91, -744.56, 111.59),
     rot = vector3(-14.85577, -0.0, -67.75),
     spawn = vector4(1079.03, -705.42, 57.68, 134.61) },
