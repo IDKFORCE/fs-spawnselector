@@ -1,7 +1,7 @@
 local hasFocus, locations, fading, current = false, false, {};
 local QBCore = exports['qb-core']:GetCoreObject()
 
-TriggerEvent('QBCore:Client:OnPlayerLoaded') function BuildSelector(data)
+    function BuildSelector(data)
     locations, playerData, hasFocus = BuildLocations(data), data, true;
     BuildCamera(1);
     SetNuiFocus(true, true);
