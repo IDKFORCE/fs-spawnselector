@@ -2,6 +2,10 @@
 
 Dont Not Replace qb-spawn with this ⚠⚠⚠⚠⚠
 
+```My Discord```
+- [Discord](https://discord.gg/6kJ5ubDEWE)
+
+
 *
 ![showcase](https://cdn.discordapp.com/attachments/784243374269661195/990042002550829097/unknown.png)
 
