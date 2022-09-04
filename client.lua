@@ -105,14 +105,14 @@ function spawnplayer()
         RenderScriptCams(false, false, 0, true, true);
     else
         DoScreenFadeOut(250)
-        Citizen.Wait(500)
+        Wait(500)
         RenderScriptCams(false, true, 2000, true, true);
         SetEntityVisible(ped, true)
         SetEntityCollision(ped, true, true)
         SendNUIMessage({ event = "hide" })
         SetNuiFocus(false, false)
         DestroyCam(current.camera, true)
-        Citizen.Wait(5000)
+        Wait(5000)
         DoScreenFadeIn(1000)
         TriggerScreenblurFadeIn(1000)
         SetEntityCoords(PlayerPedId(), PlayerData.position.x, PlayerData.position.y, PlayerData.position.z - 0.9, 0, 0, 0, false)
