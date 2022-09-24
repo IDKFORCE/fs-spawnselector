@@ -53,7 +53,7 @@ end)
 *
 To Change The Logo Go To `interface.css` In Line 7
 *
-If You Want The Locations To Be By Jobs Go To `fs-spawnselector/settings.lua` And Uncomment -- from the jobs
+If You Want The Locations To Not Be By Jobs Go To `fs-spawnselector/settings.lua` And Comment -- On The Jobs
 *
 # Here Is The Original Fork
 
