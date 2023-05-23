@@ -3,7 +3,7 @@
 Dont Not Replace qb-spawn with this ⚠⚠⚠⚠⚠
 
 ```My Discord```
-- [Discord](https://discord.gg/6kJ5ubDEWE)
+- [Discord](https://discord.gg/UFng7DWnWP)
 
 
 *
